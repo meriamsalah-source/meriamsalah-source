@@ -85,3 +85,13 @@ To transform ideas into practical technological solutions, continuously improve 
   *Always learning. Always building. Always improving.*
 
 </div>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meriamsalah-source&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriamsalah-source&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" />
+
+</div>
