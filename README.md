@@ -2,23 +2,67 @@
 
 ### Embedded Systems Student | IoT | Robotics | Software Development
 
-> Exploring the intersection of hardware and software to build intelligent, connected and innovative solutions.
+<div align="center">
 
-Hello! I'm Meriam, an Embedded Systems student at ISI, Tunisia.
+  **Building intelligent systems through hardware and software.**
 
-I'm passionate about technology, problem-solving and continuous learning. I enjoy exploring how software interacts with hardware and how intelligent systems can solve real-world problems.
+  *Dream • Design • Develop • Innovate*
 
-### ⚡ Areas of Interest
-- Embedded Systems & Microcontrollers
-- Internet of Things (IoT)
-- Robotics & ROS 2
-- Embedded Artificial Intelligence
-- Software Development
+</div>
 
-### 🛠️ Technologies & Tools
-Currently developing my skills in programming, embedded technologies, robotics and software engineering.
+---
 
-### 🎯 My Goal
-To develop practical projects, strengthen my skills and contribute to innovative technological solutions.
+## 👋 About Me
 
-### 🌱 Always learning. Always building. Always improving.
+Hello! I'm Meriam, a third-year Applied Bachelor's student in Embedded Systems at ISI, Tunisia.
+
+I'm passionate about technology, problem-solving and exploring the interaction between hardware and software.
+
+I'm particularly interested in:
+
+- 🤖 Robotics and Autonomous Systems
+- 🌐 Internet of Things (IoT)
+- ⚙️ Embedded Systems and Microcontrollers
+- 🧠 Embedded Artificial Intelligence
+- 💻 Software Development
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+- C / C++
+- Python
+- Java
+
+**Tools & Technologies**
+
+- Linux
+- Git & GitHub
+- ROS 2
+- Arduino
+- Android Studio
+
+## 🚀 Featured Projects
+
+*Projects will be added here as they are developed and published.*
+
+## 🌱 Currently Exploring
+
+- ROS 2 and Robot Simulation
+- IoT Applications
+- Embedded AI
+- Software Engineering
+
+## 🎯 My Vision
+
+To transform ideas into practical technological solutions, continuously improve my engineering skills and contribute to innovative projects.
+
+---
+
+<div align="center">
+
+  **Thanks for visiting my profile!**
+
+  *Always learning. Always building. Always improving.*
+
+</div>
